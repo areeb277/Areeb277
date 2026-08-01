@@ -21,6 +21,15 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+HTML+CSS+JavaScript+React;Future+Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umercodes2010/umercodes2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
 
 ---
 
