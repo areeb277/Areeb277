@@ -1,6 +1,12 @@
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Areeb+Ahmed;Frontend+Developer;React+Learner;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!">
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umercodes2010&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
